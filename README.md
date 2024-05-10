@@ -16,8 +16,9 @@
   <a href="#credits">Credits</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-
+<p align="center">
+  <img src="GalaxyProtectorGameplay.gif" alt="Galaxy Protector">
+</p>
 ## Key Features
 
 * Component based
