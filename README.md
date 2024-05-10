@@ -35,7 +35,7 @@
 
 ## Download
 
-You can [download](galaxyProtector.exe) the latest installable version of Galaxy Protector for Windows.
+You can [download](galaxyShooter.zip) the latest installable version of Galaxy Protector for Windows.
 
 ## Credits
 
